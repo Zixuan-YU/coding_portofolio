@@ -8,15 +8,14 @@ Zixuan Yu
 ## 1. Java - BlackJack Game Simulator
 **Overview**: A program that simulates a BlackJack game. It can be compiled via `javac *.java` and then run by `java BlackJackGameSimulator`.  
 **Language**: Java  
-**Code**: [BlackJackGame source code]([URL-to-source-code](https://github.com/Zixuan-YU/JHU-Intro-to-Pramming-Using-JAVA/blob/main/MiniProject2_BlackJackGameSimulator) inside the `src` folder  
+**Code**: [BlackJackGame source code](https://github.com/Zixuan-YU/JHU-Intro-to-Pramming-Using-JAVA/blob/main/MiniProject2_BlackJackGameSimulator) inside the `src` folder  
 **Additional Materials**: [UML Diagram](https://github.com/Zixuan-YU/JHU-Intro-to-Pramming-Using-JAVA/blob/main/MiniProject2_BlackJackGameSimulator/UML_BlackJack.jpg), [Design Document](https://github.com/Zixuan-YU/JHU-Intro-to-Pramming-Using-JAVA/blob/main/MiniProject2_BlackJackGameSimulator/MiniProject2_BlackJackGameSimulator_Documentation_Zixuan_Yu.pdf)
 
 ## 2. Python - Data Science Course Project
 **Overview**: Visualization of how the logistic function curve changes based on different beta0 and beta1 values.  
 **Language**: Python, Jupyter Notebook, Streamlit  
 **Code**: [Jupyter Notebook](https://github.com/Zixuan-YU/DataScience/blob/main/hw7.ipynb), [Streamlit App]((https://github.com/Zixuan-YU/DataScience/blob/main/hw7_q5.py)
-**Additional Materials**: [Streamlit App GIF](https://github.com/Zixuan-YU/DataScience/blob/main/hw7_q5 %C2%B7 Streamlit.gif)
-
+**Additional Materials**: [Streamlit App GIF](https://github.com/Zixuan-YU/DataScience/blob/main/hw7_q5%20%C2%B7%20Streamlit.gif)
 ## 3. Python - Deep Learning and Medical Imaging
 **Overview**: Training and fine-tuning a deep learning model to do segmentation in chest X-rays.  
 **Language**: Python  
