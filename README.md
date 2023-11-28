@@ -3,8 +3,6 @@ Zixuan Yu
 
 # Portfolio Projects
 
-# Portfolio Projects
-
 ## 1. Java - BlackJack Game Simulator
 **Overview**: A program that simulates a BlackJack game. It can be compiled via `javac *.java` and then run by `java BlackJackGameSimulator`.  
 **Language**: Java  
